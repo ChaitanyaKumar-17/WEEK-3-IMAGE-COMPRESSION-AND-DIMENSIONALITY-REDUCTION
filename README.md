@@ -32,7 +32,7 @@ Real-world machine learning systems operate under strict hardware and memory con
 3. Launch your Python environment or execute the script directly:
 
     ```bash
-    python svd_compression.py
+    python app.py
     ```
 
 4. Adjust the $k$ parameter in the source code to independently verify the mathematical thresholds of image degradation.
